@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Logs and local environment
+*.log
+.env
+.env.*
+!.env.example
